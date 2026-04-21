@@ -1,0 +1,117 @@
+{
+  "decision_problem": [],
+  "target_population": [
+    {
+      "chunk_id": "cem_publication_example.md::chunk_1",
+      "source_path": "examples/materials/cem_publication_example.md",
+      "text": "# Cost-Effectiveness Publication Excerpt The publication reports that a partitioned-survival model was considered, but a Markov model was selected due to data availability and transparency for validation. Key assumption: treatment effect waning begins after year 3 in base case. Validation notes: internal validity checks compared model-predicted survival with trial Kaplan-Meier observations. External validity assessed against registry benchmarks. Open issue: subgroup-specific health-state utilities were unavailable and borrowed from a related population."
+    },
+    {
+      "chunk_id": "hta_appraisal_example.txt::chunk_1",
+      "source_path": "examples/materials/hta_appraisal_example.txt",
+      "text": "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X. Target population: adults with confirmed diagnosis of condition X after biomarker testing. Comparators: standard chemotherapy regimen A and targeted therapy B. Perspective: national healthcare payer perspective. Time horizon: lifetime horizon is preferred to capture all survival and cost differences. Cycle length: monthly cycle selected because treatment assessments occur every 4 weeks. Model structure: state-transition Markov model with progression-free, progressed disease, and death states. Clinical inputs: overall survival and progression-free survival from randomized controlled trial data. Cost inputs: drug acquisition, administration, adverse event management, follow-up, and terminal care. Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events. Uncertainty: deterministic one-way sensitivity analyses and probabilistic"
+    }
+  ],
+  "intervention_and_comparators": [],
+  "perspective": [
+    {
+      "chunk_id": "hta_appraisal_example.txt::chunk_1",
+      "source_path": "examples/materials/hta_appraisal_example.txt",
+      "text": "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X. Target population: adults with confirmed diagnosis of condition X after biomarker testing. Comparators: standard chemotherapy regimen A and targeted therapy B. Perspective: national healthcare payer perspective. Time horizon: lifetime horizon is preferred to capture all survival and cost differences. Cycle length: monthly cycle selected because treatment assessments occur every 4 weeks. Model structure: state-transition Markov model with progression-free, progressed disease, and death states. Clinical inputs: overall survival and progression-free survival from randomized controlled trial data. Cost inputs: drug acquisition, administration, adverse event management, follow-up, and terminal care. Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events. Uncertainty: deterministic one-way sensitivity analyses and probabilistic"
+    }
+  ],
+  "time_horizon": [
+    {
+      "chunk_id": "hta_appraisal_example.txt::chunk_1",
+      "source_path": "examples/materials/hta_appraisal_example.txt",
+      "text": "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X. Target population: adults with confirmed diagnosis of condition X after biomarker testing. Comparators: standard chemotherapy regimen A and targeted therapy B. Perspective: national healthcare payer perspective. Time horizon: lifetime horizon is preferred to capture all survival and cost differences. Cycle length: monthly cycle selected because treatment assessments occur every 4 weeks. Model structure: state-transition Markov model with progression-free, progressed disease, and death states. Clinical inputs: overall survival and progression-free survival from randomized controlled trial data. Cost inputs: drug acquisition, administration, adverse event management, follow-up, and terminal care. Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events. Uncertainty: deterministic one-way sensitivity analyses and probabilistic"
+    }
+  ],
+  "cycle_length": [
+    {
+      "chunk_id": "hta_appraisal_example.txt::chunk_1",
+      "source_path": "examples/materials/hta_appraisal_example.txt",
+      "text": "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X. Target population: adults with confirmed diagnosis of condition X after biomarker testing. Comparators: standard chemotherapy regimen A and targeted therapy B. Perspective: national healthcare payer perspective. Time horizon: lifetime horizon is preferred to capture all survival and cost differences. Cycle length: monthly cycle selected because treatment assessments occur every 4 weeks. Model structure: state-transition Markov model with progression-free, progressed disease, and death states. Clinical inputs: overall survival and progression-free survival from randomized controlled trial data. Cost inputs: drug acquisition, administration, adverse event management, follow-up, and terminal care. Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events. Uncertainty: deterministic one-way sensitivity analyses and probabilistic"
+    }
+  ],
+  "model_structure_and_rationale": [
+    {
+      "chunk_id": "hta_appraisal_example.txt::chunk_1",
+      "source_path": "examples/materials/hta_appraisal_example.txt",
+      "text": "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X. Target population: adults with confirmed diagnosis of condition X after biomarker testing. Comparators: standard chemotherapy regimen A and targeted therapy B. Perspective: national healthcare payer perspective. Time horizon: lifetime horizon is preferred to capture all survival and cost differences. Cycle length: monthly cycle selected because treatment assessments occur every 4 weeks. Model structure: state-transition Markov model with progression-free, progressed disease, and death states. Clinical inputs: overall survival and progression-free survival from randomized controlled trial data. Cost inputs: drug acquisition, administration, adverse event management, follow-up, and terminal care. Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events. Uncertainty: deterministic one-way sensitivity analyses and probabilistic"
+    },
+    {
+      "chunk_id": "cem_publication_example.md::chunk_1",
+      "source_path": "examples/materials/cem_publication_example.md",
+      "text": "# Cost-Effectiveness Publication Excerpt The publication reports that a partitioned-survival model was considered, but a Markov model was selected due to data availability and transparency for validation. Key assumption: treatment effect waning begins after year 3 in base case. Validation notes: internal validity checks compared model-predicted survival with trial Kaplan-Meier observations. External validity assessed against registry benchmarks. Open issue: subgroup-specific health-state utilities were unavailable and borrowed from a related population."
+    }
+  ],
+  "clinical_inputs": [
+    {
+      "chunk_id": "hta_appraisal_example.txt::chunk_1",
+      "source_path": "examples/materials/hta_appraisal_example.txt",
+      "text": "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X. Target population: adults with confirmed diagnosis of condition X after biomarker testing. Comparators: standard chemotherapy regimen A and targeted therapy B. Perspective: national healthcare payer perspective. Time horizon: lifetime horizon is preferred to capture all survival and cost differences. Cycle length: monthly cycle selected because treatment assessments occur every 4 weeks. Model structure: state-transition Markov model with progression-free, progressed disease, and death states. Clinical inputs: overall survival and progression-free survival from randomized controlled trial data. Cost inputs: drug acquisition, administration, adverse event management, follow-up, and terminal care. Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events. Uncertainty: deterministic one-way sensitivity analyses and probabilistic"
+    },
+    {
+      "chunk_id": "hta_appraisal_example.txt::chunk_2",
+      "source_path": "examples/materials/hta_appraisal_example.txt",
+      "text": "care. Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events. Uncertainty: deterministic one-way sensitivity analyses and probabilistic sensitivity analysis required. Known gap: immature long-term survival data, requiring extrapolation assumptions."
+    },
+    {
+      "chunk_id": "cem_publication_example.md::chunk_1",
+      "source_path": "examples/materials/cem_publication_example.md",
+      "text": "# Cost-Effectiveness Publication Excerpt The publication reports that a partitioned-survival model was considered, but a Markov model was selected due to data availability and transparency for validation. Key assumption: treatment effect waning begins after year 3 in base case. Validation notes: internal validity checks compared model-predicted survival with trial Kaplan-Meier observations. External validity assessed against registry benchmarks. Open issue: subgroup-specific health-state utilities were unavailable and borrowed from a related population."
+    }
+  ],
+  "cost_inputs": [
+    {
+      "chunk_id": "hta_appraisal_example.txt::chunk_1",
+      "source_path": "examples/materials/hta_appraisal_example.txt",
+      "text": "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X. Target population: adults with confirmed diagnosis of condition X after biomarker testing. Comparators: standard chemotherapy regimen A and targeted therapy B. Perspective: national healthcare payer perspective. Time horizon: lifetime horizon is preferred to capture all survival and cost differences. Cycle length: monthly cycle selected because treatment assessments occur every 4 weeks. Model structure: state-transition Markov model with progression-free, progressed disease, and death states. Clinical inputs: overall survival and progression-free survival from randomized controlled trial data. Cost inputs: drug acquisition, administration, adverse event management, follow-up, and terminal care. Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events. Uncertainty: deterministic one-way sensitivity analyses and probabilistic"
+    }
+  ],
+  "utility_inputs": [
+    {
+      "chunk_id": "hta_appraisal_example.txt::chunk_1",
+      "source_path": "examples/materials/hta_appraisal_example.txt",
+      "text": "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X. Target population: adults with confirmed diagnosis of condition X after biomarker testing. Comparators: standard chemotherapy regimen A and targeted therapy B. Perspective: national healthcare payer perspective. Time horizon: lifetime horizon is preferred to capture all survival and cost differences. Cycle length: monthly cycle selected because treatment assessments occur every 4 weeks. Model structure: state-transition Markov model with progression-free, progressed disease, and death states. Clinical inputs: overall survival and progression-free survival from randomized controlled trial data. Cost inputs: drug acquisition, administration, adverse event management, follow-up, and terminal care. Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events. Uncertainty: deterministic one-way sensitivity analyses and probabilistic"
+    },
+    {
+      "chunk_id": "hta_appraisal_example.txt::chunk_2",
+      "source_path": "examples/materials/hta_appraisal_example.txt",
+      "text": "care. Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events. Uncertainty: deterministic one-way sensitivity analyses and probabilistic sensitivity analysis required. Known gap: immature long-term survival data, requiring extrapolation assumptions."
+    }
+  ],
+  "assumptions": [
+    {
+      "chunk_id": "cem_publication_example.md::chunk_1",
+      "source_path": "examples/materials/cem_publication_example.md",
+      "text": "# Cost-Effectiveness Publication Excerpt The publication reports that a partitioned-survival model was considered, but a Markov model was selected due to data availability and transparency for validation. Key assumption: treatment effect waning begins after year 3 in base case. Validation notes: internal validity checks compared model-predicted survival with trial Kaplan-Meier observations. External validity assessed against registry benchmarks. Open issue: subgroup-specific health-state utilities were unavailable and borrowed from a related population."
+    }
+  ],
+  "validation_uncertainty": [
+    {
+      "chunk_id": "hta_appraisal_example.txt::chunk_2",
+      "source_path": "examples/materials/hta_appraisal_example.txt",
+      "text": "care. Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events. Uncertainty: deterministic one-way sensitivity analyses and probabilistic sensitivity analysis required. Known gap: immature long-term survival data, requiring extrapolation assumptions."
+    },
+    {
+      "chunk_id": "cem_publication_example.md::chunk_1",
+      "source_path": "examples/materials/cem_publication_example.md",
+      "text": "# Cost-Effectiveness Publication Excerpt The publication reports that a partitioned-survival model was considered, but a Markov model was selected due to data availability and transparency for validation. Key assumption: treatment effect waning begins after year 3 in base case. Validation notes: internal validity checks compared model-predicted survival with trial Kaplan-Meier observations. External validity assessed against registry benchmarks. Open issue: subgroup-specific health-state utilities were unavailable and borrowed from a related population."
+    },
+    {
+      "chunk_id": "hta_appraisal_example.txt::chunk_1",
+      "source_path": "examples/materials/hta_appraisal_example.txt",
+      "text": "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X. Target population: adults with confirmed diagnosis of condition X after biomarker testing. Comparators: standard chemotherapy regimen A and targeted therapy B. Perspective: national healthcare payer perspective. Time horizon: lifetime horizon is preferred to capture all survival and cost differences. Cycle length: monthly cycle selected because treatment assessments occur every 4 weeks. Model structure: state-transition Markov model with progression-free, progressed disease, and death states. Clinical inputs: overall survival and progression-free survival from randomized controlled trial data. Cost inputs: drug acquisition, administration, adverse event management, follow-up, and terminal care. Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events. Uncertainty: deterministic one-way sensitivity analyses and probabilistic"
+    }
+  ],
+  "evidence_gaps_open_questions": [
+    {
+      "chunk_id": "hta_appraisal_example.txt::chunk_2",
+      "source_path": "examples/materials/hta_appraisal_example.txt",
+      "text": "care. Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events. Uncertainty: deterministic one-way sensitivity analyses and probabilistic sensitivity analysis required. Known gap: immature long-term survival data, requiring extrapolation assumptions."
+    }
+  ],
+  "downstream_handoff_notes": []
+}

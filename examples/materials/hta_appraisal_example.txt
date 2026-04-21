@@ -1,0 +1,14 @@
+HTA Appraisal Summary
+
+Decision context: reimbursement decision for first-line treatment in advanced condition X.
+Target population: adults with confirmed diagnosis of condition X after biomarker testing.
+Comparators: standard chemotherapy regimen A and targeted therapy B.
+Perspective: national healthcare payer perspective.
+Time horizon: lifetime horizon is preferred to capture all survival and cost differences.
+Cycle length: monthly cycle selected because treatment assessments occur every 4 weeks.
+Model structure: state-transition Markov model with progression-free, progressed disease, and death states.
+Clinical inputs: overall survival and progression-free survival from randomized controlled trial data.
+Cost inputs: drug acquisition, administration, adverse event management, follow-up, and terminal care.
+Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events.
+Uncertainty: deterministic one-way sensitivity analyses and probabilistic sensitivity analysis required.
+Known gap: immature long-term survival data, requiring extrapolation assumptions.
