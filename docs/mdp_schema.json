@@ -1,0 +1,513 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Model Design Plan",
+  "type": "object",
+  "properties": {
+    "decision_problem": {
+      "type": "object",
+      "properties": {
+        "source_grounded_evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "agent_synthesis": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "assumptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "unresolved_gaps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "source_grounded_evidence",
+        "agent_synthesis",
+        "assumptions",
+        "unresolved_gaps"
+      ]
+    },
+    "target_population": {
+      "type": "object",
+      "properties": {
+        "source_grounded_evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "agent_synthesis": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "assumptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "unresolved_gaps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "source_grounded_evidence",
+        "agent_synthesis",
+        "assumptions",
+        "unresolved_gaps"
+      ]
+    },
+    "intervention_and_comparators": {
+      "type": "object",
+      "properties": {
+        "source_grounded_evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "agent_synthesis": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "assumptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "unresolved_gaps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "source_grounded_evidence",
+        "agent_synthesis",
+        "assumptions",
+        "unresolved_gaps"
+      ]
+    },
+    "perspective": {
+      "type": "object",
+      "properties": {
+        "source_grounded_evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "agent_synthesis": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "assumptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "unresolved_gaps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "source_grounded_evidence",
+        "agent_synthesis",
+        "assumptions",
+        "unresolved_gaps"
+      ]
+    },
+    "time_horizon": {
+      "type": "object",
+      "properties": {
+        "source_grounded_evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "agent_synthesis": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "assumptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "unresolved_gaps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "source_grounded_evidence",
+        "agent_synthesis",
+        "assumptions",
+        "unresolved_gaps"
+      ]
+    },
+    "cycle_length": {
+      "type": "object",
+      "properties": {
+        "source_grounded_evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "agent_synthesis": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "assumptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "unresolved_gaps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "source_grounded_evidence",
+        "agent_synthesis",
+        "assumptions",
+        "unresolved_gaps"
+      ]
+    },
+    "model_structure_and_rationale": {
+      "type": "object",
+      "properties": {
+        "source_grounded_evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "agent_synthesis": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "assumptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "unresolved_gaps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "source_grounded_evidence",
+        "agent_synthesis",
+        "assumptions",
+        "unresolved_gaps"
+      ]
+    },
+    "clinical_inputs": {
+      "type": "object",
+      "properties": {
+        "source_grounded_evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "agent_synthesis": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "assumptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "unresolved_gaps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "source_grounded_evidence",
+        "agent_synthesis",
+        "assumptions",
+        "unresolved_gaps"
+      ]
+    },
+    "cost_inputs": {
+      "type": "object",
+      "properties": {
+        "source_grounded_evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "agent_synthesis": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "assumptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "unresolved_gaps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "source_grounded_evidence",
+        "agent_synthesis",
+        "assumptions",
+        "unresolved_gaps"
+      ]
+    },
+    "utility_inputs": {
+      "type": "object",
+      "properties": {
+        "source_grounded_evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "agent_synthesis": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "assumptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "unresolved_gaps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "source_grounded_evidence",
+        "agent_synthesis",
+        "assumptions",
+        "unresolved_gaps"
+      ]
+    },
+    "assumptions": {
+      "type": "object",
+      "properties": {
+        "source_grounded_evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "agent_synthesis": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "assumptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "unresolved_gaps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "source_grounded_evidence",
+        "agent_synthesis",
+        "assumptions",
+        "unresolved_gaps"
+      ]
+    },
+    "validation_uncertainty": {
+      "type": "object",
+      "properties": {
+        "source_grounded_evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "agent_synthesis": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "assumptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "unresolved_gaps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "source_grounded_evidence",
+        "agent_synthesis",
+        "assumptions",
+        "unresolved_gaps"
+      ]
+    },
+    "evidence_gaps_open_questions": {
+      "type": "object",
+      "properties": {
+        "source_grounded_evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "agent_synthesis": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "assumptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "unresolved_gaps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "source_grounded_evidence",
+        "agent_synthesis",
+        "assumptions",
+        "unresolved_gaps"
+      ]
+    },
+    "downstream_handoff_notes": {
+      "type": "object",
+      "properties": {
+        "source_grounded_evidence": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "agent_synthesis": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "assumptions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "unresolved_gaps": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "source_grounded_evidence",
+        "agent_synthesis",
+        "assumptions",
+        "unresolved_gaps"
+      ]
+    }
+  },
+  "required": [
+    "decision_problem",
+    "target_population",
+    "intervention_and_comparators",
+    "perspective",
+    "time_horizon",
+    "cycle_length",
+    "model_structure_and_rationale",
+    "clinical_inputs",
+    "cost_inputs",
+    "utility_inputs",
+    "assumptions",
+    "validation_uncertainty",
+    "evidence_gaps_open_questions",
+    "downstream_handoff_notes"
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "decision_problem": {
+    "section": "decision_problem",
+    "source_grounded_evidence": [],
+    "agent_synthesis": [],
+    "assumptions": [
+      "No direct source evidence retrieved; placeholder assumption inserted for draft continuity."
+    ],
+    "unresolved_gaps": [
+      "No supporting text retrieved from current materials."
+    ]
+  },
+  "target_population": {
+    "section": "target_population",
+    "source_grounded_evidence": [
+      "# Cost-Effectiveness Publication Excerpt The publication reports that a partitioned-survival model was considered, but a Markov model was selected due to data availability and transparency for validation.",
+      "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X."
+    ],
+    "agent_synthesis": [
+      "Based on retrieved material, this section has 2 evidence point(s); a human reviewer should confirm final wording and context.",
+      "Traceability references: cem_publication_example.md::chunk_1 (examples/materials/cem_publication_example.md), hta_appraisal_example.txt::chunk_1 (examples/materials/hta_appraisal_example.txt)"
+    ],
+    "assumptions": [],
+    "unresolved_gaps": []
+  },
+  "intervention_and_comparators": {
+    "section": "intervention_and_comparators",
+    "source_grounded_evidence": [],
+    "agent_synthesis": [],
+    "assumptions": [
+      "No direct source evidence retrieved; placeholder assumption inserted for draft continuity."
+    ],
+    "unresolved_gaps": [
+      "No supporting text retrieved from current materials."
+    ]
+  },
+  "perspective": {
+    "section": "perspective",
+    "source_grounded_evidence": [
+      "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X."
+    ],
+    "agent_synthesis": [
+      "Based on retrieved material, this section has 1 evidence point(s); a human reviewer should confirm final wording and context.",
+      "Traceability references: hta_appraisal_example.txt::chunk_1 (examples/materials/hta_appraisal_example.txt)"
+    ],
+    "assumptions": [],
+    "unresolved_gaps": []
+  },
+  "time_horizon": {
+    "section": "time_horizon",
+    "source_grounded_evidence": [
+      "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X."
+    ],
+    "agent_synthesis": [
+      "Based on retrieved material, this section has 1 evidence point(s); a human reviewer should confirm final wording and context.",
+      "Traceability references: hta_appraisal_example.txt::chunk_1 (examples/materials/hta_appraisal_example.txt)"
+    ],
+    "assumptions": [],
+    "unresolved_gaps": []
+  },
+  "cycle_length": {
+    "section": "cycle_length",
+    "source_grounded_evidence": [
+      "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X."
+    ],
+    "agent_synthesis": [
+      "Based on retrieved material, this section has 1 evidence point(s); a human reviewer should confirm final wording and context.",
+      "Traceability references: hta_appraisal_example.txt::chunk_1 (examples/materials/hta_appraisal_example.txt)"
+    ],
+    "assumptions": [],
+    "unresolved_gaps": []
+  },
+  "model_structure_and_rationale": {
+    "section": "model_structure_and_rationale",
+    "source_grounded_evidence": [
+      "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X.",
+      "# Cost-Effectiveness Publication Excerpt The publication reports that a partitioned-survival model was considered, but a Markov model was selected due to data availability and transparency for validation."
+    ],
+    "agent_synthesis": [
+      "Based on retrieved material, this section has 2 evidence point(s); a human reviewer should confirm final wording and context.",
+      "Traceability references: hta_appraisal_example.txt::chunk_1 (examples/materials/hta_appraisal_example.txt), cem_publication_example.md::chunk_1 (examples/materials/cem_publication_example.md)"
+    ],
+    "assumptions": [],
+    "unresolved_gaps": []
+  },
+  "clinical_inputs": {
+    "section": "clinical_inputs",
+    "source_grounded_evidence": [
+      "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X.",
+      "Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events.",
+      "# Cost-Effectiveness Publication Excerpt The publication reports that a partitioned-survival model was considered, but a Markov model was selected due to data availability and transparency for validation."
+    ],
+    "agent_synthesis": [
+      "Based on retrieved material, this section has 3 evidence point(s); a human reviewer should confirm final wording and context.",
+      "Traceability references: hta_appraisal_example.txt::chunk_1 (examples/materials/hta_appraisal_example.txt), hta_appraisal_example.txt::chunk_2 (examples/materials/hta_appraisal_example.txt), cem_publication_example.md::chunk_1 (examples/materials/cem_publication_example.md)"
+    ],
+    "assumptions": [],
+    "unresolved_gaps": []
+  },
+  "cost_inputs": {
+    "section": "cost_inputs",
+    "source_grounded_evidence": [
+      "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X."
+    ],
+    "agent_synthesis": [
+      "Based on retrieved material, this section has 1 evidence point(s); a human reviewer should confirm final wording and context.",
+      "Traceability references: hta_appraisal_example.txt::chunk_1 (examples/materials/hta_appraisal_example.txt)"
+    ],
+    "assumptions": [],
+    "unresolved_gaps": []
+  },
+  "utility_inputs": {
+    "section": "utility_inputs",
+    "source_grounded_evidence": [
+      "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X.",
+      "Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events."
+    ],
+    "agent_synthesis": [
+      "Based on retrieved material, this section has 2 evidence point(s); a human reviewer should confirm final wording and context.",
+      "Traceability references: hta_appraisal_example.txt::chunk_1 (examples/materials/hta_appraisal_example.txt), hta_appraisal_example.txt::chunk_2 (examples/materials/hta_appraisal_example.txt)"
+    ],
+    "assumptions": [],
+    "unresolved_gaps": []
+  },
+  "assumptions": {
+    "section": "assumptions",
+    "source_grounded_evidence": [
+      "# Cost-Effectiveness Publication Excerpt The publication reports that a partitioned-survival model was considered, but a Markov model was selected due to data availability and transparency for validation."
+    ],
+    "agent_synthesis": [
+      "Based on retrieved material, this section has 1 evidence point(s); a human reviewer should confirm final wording and context.",
+      "Traceability references: cem_publication_example.md::chunk_1 (examples/materials/cem_publication_example.md)"
+    ],
+    "assumptions": [],
+    "unresolved_gaps": []
+  },
+  "validation_uncertainty": {
+    "section": "validation_uncertainty",
+    "source_grounded_evidence": [
+      "Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events.",
+      "# Cost-Effectiveness Publication Excerpt The publication reports that a partitioned-survival model was considered, but a Markov model was selected due to data availability and transparency for validation.",
+      "HTA Appraisal Summary Decision context: reimbursement decision for first-line treatment in advanced condition X."
+    ],
+    "agent_synthesis": [
+      "Based on retrieved material, this section has 3 evidence point(s); a human reviewer should confirm final wording and context.",
+      "Traceability references: hta_appraisal_example.txt::chunk_2 (examples/materials/hta_appraisal_example.txt), cem_publication_example.md::chunk_1 (examples/materials/cem_publication_example.md), hta_appraisal_example.txt::chunk_1 (examples/materials/hta_appraisal_example.txt)"
+    ],
+    "assumptions": [],
+    "unresolved_gaps": []
+  },
+  "evidence_gaps_open_questions": {
+    "section": "evidence_gaps_open_questions",
+    "source_grounded_evidence": [
+      "Utility inputs: EQ-5D utility estimates with disutilities for grade 3+ adverse events."
+    ],
+    "agent_synthesis": [
+      "Based on retrieved material, this section has 1 evidence point(s); a human reviewer should confirm final wording and context.",
+      "Traceability references: hta_appraisal_example.txt::chunk_2 (examples/materials/hta_appraisal_example.txt)"
+    ],
+    "assumptions": [],
+    "unresolved_gaps": []
+  },
+  "downstream_handoff_notes": {
+    "section": "downstream_handoff_notes",
+    "source_grounded_evidence": [],
+    "agent_synthesis": [],
+    "assumptions": [
+      "No direct source evidence retrieved; placeholder assumption inserted for draft continuity."
+    ],
+    "unresolved_gaps": [
+      "No supporting text retrieved from current materials."
+    ]
+  }
+}
